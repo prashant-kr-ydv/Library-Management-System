@@ -1,0 +1,7 @@
+==========================================
+       LIBRARY INVENTORY REPORT           
+==========================================
+ID    Title                     Author               Qty  
+------------------------------------------
+1     Clean Code                Robert Martin        5    
+2     Clean Code                Robert Martin        1    
